@@ -1,5 +1,5 @@
 # PEC3_Manovich_Reloaded
-  Visionando el futuro con las gafas de Manovich.
+##  Visionando el futuro con las gafas de Manovich.
 
 
 Autor: Jorge Sereno Dobrick
@@ -10,19 +10,19 @@ Fecha: 06/05/22
 
 
 
-## Planteamiento
+### Planteamiento
 
 
 En este tercer reto se nos propone realizar una investigación sobre el proceso de **hibridación** y posteriormente un informe-ensayo (que será este documento en formato MarkDown y publicado en este repositorio de GitHub) exponiendo dos casos a modo de ejemplo.
 
 
-## Re-descubriendo la hibridación: Caso 1 -> Pokemon Go
+### Re-descubriendo la hibridación: Caso 1 -> Pokemon Go
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-## Re-descubriendo la hibridación: Caso 2 -> Youtube Rewind
+### Re-descubriendo la hibridación: Caso 2 -> Youtube Rewind
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
