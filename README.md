@@ -13,8 +13,8 @@
 ### Planteamiento
 
 
-En este tercer reto se nos propone realizar una investigación sobre el proceso de **hibridación** y posteriormente un informe-ensayo (que será este documento en formato MarkDown y publicado en este repositorio de GitHub) exponiendo dos casos a modo de ejemplo.
-**¿Qué es la hibridación?***
+En este tercer reto se nos propone realizar una investigación sobre el proceso de **hibridación** y posteriormente un informe-ensayo (que será este documento en formato MarkDown y publicado en este repositorio de GitHub) exponiendo dos casos a modo de ejemplo.  
+**¿Qué es la hibridación?***  
 Este proceso se da cuando las propiedades y técnicas exclusivas de distintos medios se convierten en elementos de software que pueden combinarse por vías que antes resultaban imposibles.
 El propio Manovich la describe en "El software toma el mando" de la siguiente manera: 
 >En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno. -Lev Manovich
