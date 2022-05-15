@@ -18,7 +18,7 @@ En este tercer reto se nos propone realizar una investigación sobre el proceso 
 **¿Qué es la hibridación?**  
 Este proceso se da cuando las propiedades y técnicas exclusivas de distintos medios se convierten en elementos de software que pueden combinarse por vías que antes resultaban imposibles.
 El propio Manovich la describe en "El software toma el mando" de la siguiente manera: 
->En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno. -Lev Manovich
+>En los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno. -Lev Manovich.
 
 A continuación presentaré mis dos casos a modo de ejemplo, por un lado el caso de 'Pokemon Go' como videojuego de realidad aumentada y por otro lado el resumen de vídeos del año de Youtube, 'Youtube Rewind'.
 
@@ -46,6 +46,7 @@ En los años 2016 y 2017, los Rewind contaron con la participación de más de 2
 En 2019 el Rewind representó todos los vídeos y elementos célebres del año, como las canciones más populares (Old Town Road, Bad Guy, Earth, Kill this Love, 7 rings o Señorita), sucesos como la boda entre PewDiePie y CutiePieMarzia, la llegada a los 100 millones de suscriptores de T-Series, el éxito musical de Rosalía gracias a "Con altura", y los videojuegos más populares del año como Roblox, Fortnite, Garena Free Fire o Minecraft. Sin embargo, lo representan de modo casi similar a como lo hicieron con el YouTube Rewind 2010 y 2011, recopilándolos a modo de top 10, hecho que hizo que recibiera bastantes críticas, en su mayoría negativas.  
 Este fue el último año en que se publicaría un Youtube Rewind, ya que el año 2020 Youtube anunciaría que debido a la pandemia no habría un Rewind ese año.  
 >Rewind siempre ha intentado ser una celebración para ti. Pero el 2020 ha sido diferente. Y no se siente bien seguir adelante como si no lo fuera. Así que nos tomamos una pausa del Rewind este año. - Cuenta de Youtube en Twitter.  
+ 
 Al año siguiente, en 2021, se anunció la cancelación definitiva de Youtube Rewind.  
 Pese a esto, las comunidades han querido seguir con la tradición y, gracias a youtubers importantes de cada comunidad como MrBeast, PewDiePie o TheGrefg, se ha seguido realizando y los usuarios han podido seguir disfrutando de estos vídeos.
 Link al Rewind Hispano 2021 (editado y subido por Alecmolon): https://www.youtube.com/watch?v=_FMplFlIiOU&ab_channel=Alecmolon  
