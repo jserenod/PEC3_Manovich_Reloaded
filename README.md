@@ -39,14 +39,28 @@ Debido a la repercusión que tuvo el juego, han sido muchas las empresas que han
 ### Re-descubriendo la hibridación: Caso 2 -> Youtube Rewind
 ![Youtube Rewind](https://depor.com/resizer/NFIxQQGfCvQHApf1t8UaSDxCzrM=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/Z6LZ5PZEQRFWNEPQX2ZL6MFK54.jpg) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Youtube Rewind es una recopilación anual de vídeos, eventos y tendencias con más repercusión en la plataforma.   
+La primera edición fue publicada el año 2010 en el canal de Youtube Trends a modo de 'top' de vídeos subidos a la plataforma durante ese año. A partir de entonces se publicó anualmente durante el mes de diciembre.  
+Comenzó siendo una simple recopilación pero a medida que pasaba el tiempo las ediciones incorporarían a youtubers destacados del año, referencias a eventos, a los videojuegos con más importancia del momento, a series (por ejemplo a la serie **Breaking Bad** al llegar a su final en 2015) e incluso haciendo alusión a memes famosos como el **Harlem Shake**, también en el año 2015.  
+En los años 2016 y 2017, los Rewind contaron con la participación de más de 200 youtubers, de los cuales podemos destacar entre muchos otros a PewDiePie, quien alcanzó los 50 millones de suscriptores en 2016; MOX, Los Polinesios, Lele Pons, Rodrick Arias, El Rubius, CaEliKe, Enchufetv, Experimentos Caseros, Luisito Comunica y HolaSoyGerman, entre otros.  
+En 2019 el Rewind representó todos los vídeos y elementos célebres del año, como las canciones más populares (Old Town Road, Bad Guy, Earth, Kill this Love, 7 rings o Señorita), sucesos como la boda entre PewDiePie y CutiePieMarzia, la llegada a los 100 millones de suscriptores de T-Series, el éxito musical de Rosalía gracias a "Con altura", y los videojuegos más populares del año como Roblox, Fortnite, Garena Free Fire o Minecraft. Sin embargo, lo representan de modo casi similar a como lo hicieron con el YouTube Rewind 2010 y 2011, recopilándolos a modo de top 10, hecho que hizo que recibiera bastantes críticas, en su mayoría negativas.  
+Este fue el último año en que se publicaría un Youtube Rewind, ya que el año 2020 Youtube anunciaría que debido a la pandemia no habría un Rewind ese año.  
+>Rewind siempre ha intentado ser una celebración para ti. Pero el 2020 ha sido diferente. Y no se siente bien seguir adelante como si no lo fuera. Así que nos tomamos una pausa del Rewind este año. - Cuenta de Youtube en Twitter.  
+Al año siguiente, en 2021, se anunció la cancelación definitiva de Youtube Rewind.  
+Pese a esto, las comunidades han querido seguir con la tradición y, gracias a youtubers importantes de cada comunidad como MrBeast, PewDiePie o TheGrefg, se ha seguido realizando y los usuarios han podido seguir disfrutando de estos vídeos.
+Link al Rewind Hispano 2021 (editado y subido por Alecmolon): https://www.youtube.com/watch?v=_FMplFlIiOU&ab_channel=Alecmolon  
+Link al Rewind Hispano 2020 (subido por MrBeast): https://www.youtube.com/watch?v=PKtnafFtfEo&ab_channel=MrBeast  
+Con la publicación del último Rewind el año 2019, se publicó una web (https://rewind.youtube/) en la que podemos ver la recopilación de los vídeos y hechos más destacados del año en los diferentes países. Esta web representa un claro ejemplo de hibridación, ya que nos permite visualizar la información, los vídeos, imágenes, enlaces, etc... todo en un mismo sitio, formando parte de una misma experiencia única. 
 
-
+  
+  
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+* Youtube Rewind, **Wikipedia**. https://es.wikipedia.org/wiki/YouTube_Rewind#Referencias
+* Youtube Rewind, **Página oficial 2019**. https://rewind.youtube/
+* Pokemon Go, **Wikipedia**. https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
