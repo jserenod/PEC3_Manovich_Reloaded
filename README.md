@@ -32,7 +32,10 @@ Además de las Pokeparadas, y con mucha importancia dentro del juego, se pueden 
 Una vez encontrado uno de estos elementos dentro del juego, el usuario hace uso de la cámara de su teléfono móvil para visualizarlo, combinando la imagen del mundo real de la cámara con la imagen virtual del pokemon dentro del juego.
 ![Captura](https://www.movilzona.es/app/uploads/2016/08/caza-pokemon-go.jpg)  
 Este videojuego supuso una verdadera revolución debido a la novedad que representó, convirtiéndose rápidamente en uno de los videojuegos más descargados de la historia. Además de la novedad que supuso, el juego ganó mucha popularidad debido a que promueve la exploración por el mundo real y las reuniones físicas de sus jugadores. A modo de ejemplo y curiosidad, el 16 de 2016, miles de personas se concentraron en el Central Park de Nueva York debido a que había aparecido Vaporeon, un pokemon mítico y muy famoso entre los fans de la saga.  
-![VideoCentralPark](https://www.youtube.com/watch?v=6wVD1zdklqw&ab_channel=MeriStation)
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=6wVD1zdklqw&ab_channel=MeriStation" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Debido a la repercusión que tuvo el juego, han sido muchas las empresas que han intentado hacer videojuegos parecidos con prácticamente las mismas mecánicas, pero ninguno ha logrado tener el éxito de Pokemon Go y la mayoría han cerrado después de un año o poco más en el mercado.
 
