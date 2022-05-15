@@ -48,9 +48,9 @@ Este fue el último año en que se publicaría un Youtube Rewind, ya que el año
 >Rewind siempre ha intentado ser una celebración para ti. Pero el 2020 ha sido diferente. Y no se siente bien seguir adelante como si no lo fuera. Así que nos tomamos una pausa del Rewind este año. - Cuenta de Youtube en Twitter.  
  
 Al año siguiente, en 2021, se anunció la cancelación definitiva de Youtube Rewind.  
-Pese a esto, las comunidades han querido seguir con la tradición y, gracias a youtubers importantes de cada comunidad como MrBeast, PewDiePie o TheGrefg, se ha seguido realizando y los usuarios han podido seguir disfrutando de estos vídeos.
-Link al Rewind Hispano 2021 (editado y subido por Alecmolon): https://www.youtube.com/watch?v=_FMplFlIiOU&ab_channel=Alecmolon  
-Link al Rewind Hispano 2020 (subido por MrBeast): https://www.youtube.com/watch?v=PKtnafFtfEo&ab_channel=MrBeast  
+Pese a esto, las comunidades han querido seguir con la tradición y, gracias a youtubers importantes de cada comunidad como MrBeast, PewDiePie o TheGrefg, se ha seguido realizando y los usuarios han podido seguir disfrutando de estos vídeos.  
+Link al Rewind Hispano 2021 (editado y subido por Alecmolon): https://www.youtube.com/watch?v=_FMplFlIiOU&ab_channel=Alecmolon   
+Link al Rewind Hispano 2020 (subido por MrBeast): https://www.youtube.com/watch?v=PKtnafFtfEo&ab_channel=MrBeast    
 Con la publicación del último Rewind el año 2019, se publicó una web (https://rewind.youtube/) en la que podemos ver la recopilación de los vídeos y hechos más destacados del año en los diferentes países. Esta web representa un claro ejemplo de hibridación, ya que nos permite visualizar la información, los vídeos, imágenes, enlaces, etc... todo en un mismo sitio, formando parte de una misma experiencia única. 
 
   
