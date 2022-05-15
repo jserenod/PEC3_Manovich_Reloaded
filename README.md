@@ -6,7 +6,7 @@
 
 **Fecha**: 06/05/22
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Hibridación](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unir.net%2Fhumanidades%2Frevista%2Fmedios-digitales%2F&psig=AOvVaw0d9gW00xMp5CzAaWPEW1Bo&ust=1652722375307000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDDpfKE4vcCFQAAAAAdAAAAABAD) 
 
 
 
