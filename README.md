@@ -6,7 +6,7 @@
 
 **Fecha**: 06/05/22
 
-![Hibridación](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unir.net%2Fhumanidades%2Frevista%2Fmedios-digitales%2F&psig=AOvVaw0d9gW00xMp5CzAaWPEW1Bo&ust=1652722375307000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDDpfKE4vcCFQAAAAAdAAAAABAD) 
+![Hibridación](https://www.playmedic.com/wp-content/uploads/2016/05/recursos-digitales-para-farmacia.png) 
 
 
 
@@ -24,12 +24,17 @@ A continuación presentaré mis dos casos a modo de ejemplo, por un lado el caso
 
 
 ### Re-descubriendo la hibridación: Caso 1 -> Pokemon Go
+![Pokemon Go](https://assets.pokemon.com/assets/cms2-es-es/img/video-games/video-games/pokemon_go/pokemon-go-169.jpg) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Pokemon Go es un videojuego gratuito de realidad aumentada basado en la localización desarollado por la empresa **Niantic** para dispositivos móviles. Se trata de uno de los ejemplos más claros de hibridación ya que combina las mecánicas de luchar y atrapar Pokemon de los clásicos juegos de la saga con la localización en el mapa real de la ciudad y la cámara para visualizar los elementos del juego, creando así una experiencia nueva y única.  
+El videojuego consiste en recorrer físicamente las calles de la ciudad, que están representadas dentro del juego en forma de mapa, para encontrar los pokemon que están situados virtualmente en ubicaciones del mundo real. También se pueden encontrar 'Pokeparadas' que recompensan al jugador con objetos dentro del juego, y permiten conocer lugares históricos, museos y monumentos, entre otras cosas, ya que normalmente están situadas en esas ubicaciones.  
+Además de las Pokeparadas, y con mucha importancia dentro del juego, se pueden encontrar los clásicos Gimnasios Pokemon en lugares normalmente accesibles para los jugadores. Estos gimnasios son lugares virtuales dentro del juego a los que se puede acudir de forma presencial utilizando la ubicación del teléfono para realizar una incursión y combatir contra el pokemon defensor o asignar un pokemon para defenedr el gimnasio de otros jugadores.
+Una vez encontrado uno de estos elementos dentro del juego, el usuario hace uso de la cámara de su teléfono móvil para visualizarlo, combinando la imagen del mundo real de la cámara con la imagen virtual del pokemon dentro del juego.
+![Captura](https://www.movilzona.es/app/uploads/2016/08/caza-pokemon-go.jpg) 
 
 
 ### Re-descubriendo la hibridación: Caso 2 -> Youtube Rewind
+![Youtube Rewind](https://depor.com/resizer/NFIxQQGfCvQHApf1t8UaSDxCzrM=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/Z6LZ5PZEQRFWNEPQX2ZL6MFK54.jpg) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
